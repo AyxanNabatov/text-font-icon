@@ -1,0 +1,16 @@
+.title p {
+    text-align: center;
+    background-color: rgb(172, 79, 25);
+    width: 1400px;
+    height: 400px;
+    font-size: xx-large;
+}
+
+.intro p{
+    text-align: center;
+    font-size: xx-large;
+}
+
+.second{
+    background-color: rgb(136, 114, 16);
+}
